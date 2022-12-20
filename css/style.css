@@ -21,6 +21,7 @@ html {
     background: #C5965F;
     border-radius: 10px;
     gap: 2em;
+    box-shadow: 5px 3px 10px black;
 }
   
 .mochila {
@@ -117,6 +118,7 @@ html {
     align-items: center;
     gap: 1em;
     font-size: 20px;
+    box-shadow: 5px 3px 10px black;
 }
 
 .item strong {
